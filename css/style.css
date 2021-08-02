@@ -1,0 +1,33 @@
+p {
+    display: inline-block;
+    color: black;
+    background-color: rgb(165, 157, 241);
+    padding: 10px;
+    text-align: center;
+    font-size: large;
+}
+
+body {
+    background-color: lightgray;
+ 
+  }
+footer{
+
+    text-align: center;
+    padding-top: 20px;
+}
+header{
+    
+    
+    padding-bottom: 20px;
+    padding-top: 20px;
+    font-weight: bold;
+
+    font-size: xx-large;
+    text-align: center;
+
+
+
+}
+
+
