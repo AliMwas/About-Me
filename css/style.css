@@ -6,6 +6,11 @@ p {
     text-align: center;
     font-size: large;
 }
+#p{
+    padding-top: 200px;
+    text-align: center;
+
+}
 
 body {
     background-color: lightgray;
@@ -29,5 +34,12 @@ header{
 
 
 }
+div{
 
+    text-align: center;
+    font-size: large;
+    margin-bottom: 10px;
+
+
+}
 
