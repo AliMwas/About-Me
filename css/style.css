@@ -6,11 +6,7 @@ p {
     text-align: center;
     font-size: large;
 }
-#p{
-    padding-top: 200px;
-    text-align: center;
 
-}
 
 body {
     background-color: lightgray;
@@ -34,12 +30,31 @@ header{
 
 
 }
-div{
+div {
 
     text-align: center;
     font-size: large;
     margin-bottom: 10px;
+    padding-left: 5px;
 
 
 }
+ol{ list-style-type: decimal;
+list-style-position: inside;
 
+
+}
+ul{ list-style-type:circle;
+    list-style-position: inside;
+    text-align: center;
+    font-size: large;
+    margin-bottom: 10px;
+    padding-left: 5px;
+    
+    
+    }
+    #p{
+   
+        text-align: center;
+    
+    }
