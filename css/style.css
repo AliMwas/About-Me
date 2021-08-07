@@ -8,14 +8,15 @@ p {
 }
 
 
-body {
+/* body {
     background-color: lightgray;
  
-  }
+  } */
 footer{
 
     text-align: center;
     padding-top: 20px;
+    font-size:x-large;
 }
 header{
     
@@ -36,18 +37,20 @@ div {
     font-size: large;
     margin-bottom: 10px;
     padding-left: 5px;
+    font-size:x-large;
 
 
 }
 ol{ list-style-type: decimal;
 list-style-position: inside;
+font-size:x-large;
 
 
 }
 ul{ list-style-type:circle;
     list-style-position: inside;
     text-align: center;
-    font-size: large;
+    font-size:x-large;
     margin-bottom: 10px;
     padding-left: 5px;
     
@@ -56,5 +59,12 @@ ul{ list-style-type:circle;
     #p{
    
         text-align: center;
-    
+        font-size:x-large;
     }
+    body { 
+        color: white;
+         background-color: rgb(54, 53, 53); 
+        font-family: "Sofia", sans-serif;
+        font-size:x-large;
+        
+        }

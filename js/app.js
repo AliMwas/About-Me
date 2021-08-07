@@ -195,3 +195,8 @@ function GuessNum2() {
     return GuessNum2;
 }
 GuessNum2();
+
+var movies = ["The Matrix", "Frozen"];
+let a = console.log  (typeof(typeof(movies)));
+
+
